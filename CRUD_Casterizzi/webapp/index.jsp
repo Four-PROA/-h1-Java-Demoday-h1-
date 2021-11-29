@@ -5,7 +5,7 @@
 <title>Casterizzi</title>  
 </head>
 <body>
-<h1>Casterizzi Clientes</h1>
+<h1>Casterizzi Clientes1</h1>
 <a href="addclienteform.jsp">Add Cliente</a>
 
 </body>
