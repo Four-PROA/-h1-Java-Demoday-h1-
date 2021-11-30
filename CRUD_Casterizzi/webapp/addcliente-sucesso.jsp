@@ -7,7 +7,7 @@
 <body>
 
 <p>Cadastro Sucesso</p>
-<jsp:include page="cadastro-cliente.html"></jsp:include>
+<jsp:include page="addclienteform.jsp"></jsp:include>
 
 </body>
 </html>
